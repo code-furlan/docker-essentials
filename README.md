@@ -13,5 +13,5 @@ Created to consolidate tips and commands for docker with markdown files and code
 `git push origin main`  
 - This will prompt for username and password  
 Username: @code-furlan  
-Password: `cat eternal-token-f ull.access.md`  
+Password: `cat eternal-token-full.access.md`  
 
